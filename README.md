@@ -4,11 +4,9 @@ Editor:  Maryam Babaie, Mahyar Samani
 Title: ISA vs Technology
 ---
 
-Originally from University of Wisconsin-Madison CS/ECE 752 .
+Originally from University of Wisconsin-Madison CS/ECE 752.
 
-Modified for ECS 201A, Winter 2025.
-
-**Due on XXX 11:59 pm (PST)**: See [Submission](#submission) for details
+**Due on January 20 11:59 pm (PST)**: See [Submission](#submission) for details
 
 ## Table of Contents
 
