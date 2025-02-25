@@ -1,12 +1,12 @@
 ---
 Author: Jason Lowe-Power
-Editor:  Maryam Babaie, Mahyar Samani
+Editor:  Maryam Babaie, Mahyar Samani, Mats Brorsson
 Title: ISA vs Technology
 ---
 
-Originally from University of Wisconsin-Madison CS/ECE 752.
+Originally from University of Wisconsin-Madison CS/ECE 752. 
 
-**Due on January 20 11:59 pm (PST)**: See [Submission](#submission) for details
+**Due on 3 Macrh 2025 23:59 (CET)**: See [Submission](#submission) for details
 
 ## Table of Contents
 
@@ -132,7 +132,7 @@ Answer the following question in your report based on the four steps above.
 We gathered data on the effects of the ISA with a fixed memory and frequency and the effects of the frequency with a fixed ISA and memory
 Use the data you gathered to support your answer to the research question.
 
-### Next steps (required 201A, extra credit 154B):
+### Next steps:
 
 Answer the following questions in your report.
 
@@ -148,6 +148,8 @@ You will submit this assignment via GitHub Classroom.
 4. Commit your changes.
 
 Make sure you include both your runscript, an explanation of how to use your script, and the questions to the questions in the `questions.md` file.
+
+In addition to the steps above, also submit your questions.md file in Moodle.
 
 ### Explanation of how to use your script
 
@@ -173,4 +175,4 @@ The code included in the "Example command to run the script" section should be a
 
 You are required to work on this assignment **individually**. You may discuss high level concepts with others in the class but all the work must be completed by you.
 
-Remember, DO NOT POST YOUR CODE PUBLICLY ON GITHUB! Any code found on GitHub that is not the base template you are given will be reported to SJA. If you want to sidestep this problem entirely, don't create a public fork and instead create a private repository to store your work.
+Remember, DO NOT POST YOUR CODE PUBLICLY ON GITHUB! Any code found on GitHub that is not the base template you are given will be reported. If you want to sidestep this problem entirely, don't create a public fork and instead create a private repository to store your work.
